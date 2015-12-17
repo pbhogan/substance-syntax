@@ -1,0 +1,15 @@
+{
+  "name": "Substance",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A dark theme based on the Railcasts color scheme.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/pbhogan/substance-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
